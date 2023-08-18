@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ThuatToanMaHoa_CoDiep/static/css/main.6d724efa.css",
+    "main.js": "/ThuatToanMaHoa_CoDiep/static/js/main.9f4eec1b.js",
+    "static/js/787.669a2a14.chunk.js": "/ThuatToanMaHoa_CoDiep/static/js/787.669a2a14.chunk.js",
+    "index.html": "/ThuatToanMaHoa_CoDiep/index.html",
+    "main.6d724efa.css.map": "/ThuatToanMaHoa_CoDiep/static/css/main.6d724efa.css.map",
+    "main.9f4eec1b.js.map": "/ThuatToanMaHoa_CoDiep/static/js/main.9f4eec1b.js.map",
+    "787.669a2a14.chunk.js.map": "/ThuatToanMaHoa_CoDiep/static/js/787.669a2a14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d724efa.css",
+    "static/js/main.9f4eec1b.js"
+  ]
+}
